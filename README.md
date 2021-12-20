@@ -1,2 +1,11 @@
 # Proyecto-La-seguridad-del-viajero-
-Creación de I.A. en la nube Azure sobre la seguridad de neumáticos. 
+# Descripción del proyecto 
+Utilización de Custom Vision para detectar y analizar la fecha de creación de los neumáticos de la llant 
+# Link de nuestro TikTok 
+# Diagrama de Azure 
+# SLA Compuesto 
+# TCO 3 años y precio Total por mes 
+# Tiempo sin disponibilidad en 1 año 
+Un tiempo sin disponibilidad de 12 horas.  
+# ¿Qué nos pareció el evento?  
+El evento es muy bueno ya que nos permite analizar alguna problemática que surgen en nuestra vida cotidiana y dar una solución a través de increíbles servicios y herramientas en la nube de Azure. De igual manera, convivimos con otros viajerxs y vemos las aportaciones que se da dentro de un equipo. Es una experiencia increíble y nos gustaría participar en otro hackatón.
