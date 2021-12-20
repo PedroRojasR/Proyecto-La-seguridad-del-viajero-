@@ -3,7 +3,7 @@
 Utilización de una herramienta de Cogntives Services llamado Custom Vision para detectar y analizar la fecha de creación de los neumáticos para detectar si están en buen o mal estado.  
 # Link de nuestro TikTok 
 # Diagrama de Azure 
-![alt text](http://url/to/img.png)# 
+
 # SLA Compuesto 
 Un porcentaje del 98.01% para el SLA compuesto. 
 # TCO 3 años y Precio Total por mes 
