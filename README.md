@@ -14,4 +14,4 @@ Un tiempo sin disponibilidad de 12.31 horas.
 # ¿Qué nos pareció el evento?  
 El evento es muy bueno ya que nos permite analizar alguna problemática que surgen en nuestra vida cotidiana y dar una solución a través de increíbles servicios y herramientas en la nube de Azure. De igual manera, convivimos con otros viajerxs y vemos las aportaciones que se da dentro de un equipo. Es una experiencia increíble y nos gustaría participar en otro hackatón.
 # Link para SecuriTire
-https://southcentralus.api.cognitive.microsoft.com/
+https://www.customvision.ai/projects/bb85b1fc-9de2-4a7d-a412-04b03088831a#/manage
