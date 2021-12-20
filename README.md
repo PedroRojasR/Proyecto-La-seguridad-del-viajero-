@@ -1,11 +1,13 @@
 # Proyecto-La-seguridad-del-viajero-
 # Descripción del proyecto 
-Utilización de Custom Vision para detectar y analizar la fecha de creación de los neumáticos para detectar si están en buen o mal estado.  
+Utilización de una herramienta de Cogntives Services llamado Custom Vision para detectar y analizar la fecha de creación de los neumáticos para detectar si están en buen o mal estado.  
 # Link de nuestro TikTok 
 # Diagrama de Azure 
+    <img src= 
 # SLA Compuesto 
-Un porcentaje del 99.99% 
-# TCO 3 años y precio Total por mes 
+Un porcentaje del 98.01% para el SLA compuesto. 
+# TCO 3 años y Precio Total por mes 
+El TCO por 3 años es un 72% y el precio total por mes 
 # Tiempo sin disponibilidad en 1 año 
 Un tiempo sin disponibilidad de 12.31 horas.  
 # ¿Qué nos pareció el evento?  
