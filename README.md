@@ -3,11 +3,11 @@
 Utilización de una herramienta de Cogntives Services llamado Custom Vision para detectar y analizar la fecha de creación de los neumáticos para detectar si están en buen o mal estado.  
 # Link de nuestro TikTok 
 # Diagrama de Azure 
-    <img src= 
+![alt text](http://url/to/img.png)# 
 # SLA Compuesto 
 Un porcentaje del 98.01% para el SLA compuesto. 
 # TCO 3 años y Precio Total por mes 
-El TCO por 3 años es un 72% y el precio total por mes 
+El TCO por 3 años es un 104 dólares y el precio total por mes es de 153.62 dólares
 # Tiempo sin disponibilidad en 1 año 
 Un tiempo sin disponibilidad de 12.31 horas.  
 # ¿Qué nos pareció el evento?  
